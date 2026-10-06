@@ -9,6 +9,7 @@ public class Greeting {
         String s = scanner.nextLine();
         System.out.println("Hallo" + s + "!");
 
+// test
 
         scanner.close();
     }
